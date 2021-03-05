@@ -1,0 +1,25 @@
+.paper-item {
+  display: flex;
+  flex-direction: column;
+}
+
+.paper-item p {
+  margin-bottom: 0;
+  color: rgba(0, 0, 0, 0.65);
+}
+
+.paper-item .title {
+  font-weight: 500;
+}
+
+.paper-item .author {
+  color: rgba(0, 0, 0, 0.45);
+}
+
+.paper-item .paper-intro {
+  display: -webkit-box;
+  overflow: hidden;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  text-overflow: ellipsis;
+}

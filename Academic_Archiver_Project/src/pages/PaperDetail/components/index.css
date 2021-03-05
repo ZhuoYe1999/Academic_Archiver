@@ -1,0 +1,14 @@
+.m-comment {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.m-comment .comment-item {
+  padding: 5px;
+  border-bottom: 1px solid gray;
+}
+
+.m-comment .comment-item .comment-item-time {
+  font-size: 12px;
+  color: #696262;
+}

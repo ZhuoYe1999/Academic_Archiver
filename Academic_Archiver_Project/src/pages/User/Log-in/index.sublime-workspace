@@ -1,0 +1,256 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"all",
+				"allhyphen"
+			],
+			[
+				"al",
+				"allhyphen"
+			],
+			[
+				"y",
+				"y"
+			],
+			[
+				"bo",
+				"board2rows"
+			],
+			[
+				"row",
+				"row2tile"
+			],
+			[
+				"make",
+				"makeTile"
+			],
+			[
+				"e",
+				"emptyrow"
+			],
+			[
+				"mak",
+				"makeTile"
+			],
+			[
+				"d",
+				"drop"
+			],
+			[
+				"h",
+				"hglue"
+			],
+			[
+				"board",
+				"board2tile"
+			],
+			[
+				"c",
+				"col2tile"
+			],
+			[
+				"x",
+				"xs"
+			],
+			[
+				"tile",
+				"tile2string"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 137.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/gloria/Desktop/academic paper/src/pages/User/Log-in/index.jsx",
+		"/Users/gloria/Desktop/academic paper/src/pages/User/Log-in/index.css",
+		"/Users/gloria/Desktop/FinalProject/prototype/design/login.jsp",
+		"/Users/gloria/Desktop/academic paper/src/router/index.js",
+		"/Users/gloria/Desktop/academic paper/src/App.test.js",
+		"/Users/gloria/Desktop/academic paper/src/App.js",
+		"/Users/gloria/Desktop/academic paper/package-lock.json",
+		"/Users/gloria/Desktop/academic paper/README.md",
+		"/Users/gloria/Desktop/FinalProject/prototype/login.jsp",
+		"/Users/gloria/Downloads/Poly.h",
+		"/Users/gloria/Desktop/StringStackTesting.java",
+		"/Users/gloria/Desktop/year2/co2015project/co2015-1819-group-05-master/src/test/groovy/app/TimesheetsSpec.groovy",
+		"/Users/gloria/Desktop/year2/co2012-1819-cw2-group-12-master/src/test/java/test/MoodTest.java",
+		"/Users/gloria/Desktop/FinalProject/html/index.jsp",
+		"/Users/gloria/Desktop/bsxt/WebRoot/css/base.css",
+		"/Users/gloria/Desktop/bsxt/WebRoot/login.jsp",
+		"/Users/gloria/Downloads/lab1_exA_task01/src/lab1_exA_task01/Task01.java",
+		"/Users/gloria/Desktop/bsxt/src/com/service/loginService.java",
+		"/Users/gloria/Desktop/bsxt/WebRoot/js/style0.js",
+		"/Users/gloria/Desktop/bsxt/WebRoot/js/counter.js",
+		"/Users/gloria/Desktop/bsxt/WebRoot/qiantai/lunwen/lunwenAdd.jsp",
+		"/Users/gloria/Desktop/bsxt/WebRoot/css/style.css",
+		"/Users/gloria/Desktop/bsxt/WebRoot/loginSuccess.jsp",
+		"/Users/gloria/Downloads/makefile.dms",
+		"/Users/gloria/Desktop/apache-maven-3.6.1/conf/settings.xml",
+		"/Users/gloria/Downloads/groups.json",
+		"/Users/gloria/Desktop/mybatis-generator/generator.bat",
+		"/Users/gloria/Desktop/sameElts.hs",
+		"/Users/gloria/Desktop/year2/co2008/Worksheet4.hs",
+		"/Users/gloria/Desktop/excise.hs",
+		"/Users/gloria/Desktop/Worksheet4.hs",
+		"/Users/gloria/Desktop/Worksheet3.hs",
+		"/Users/gloria/Downloads/Worksheet3.hs",
+		"/Users/gloria/Desktop/co2016 cw3/src/cw3/AudioManipulation.java",
+		"/Users/gloria/Downloads/co2015-1819-group-05/WebContent/ManagerPage.jsp",
+		"/Users/gloria/Downloads/co2015-1819-group-05/WebContent/timeSheetsPage.jsp"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

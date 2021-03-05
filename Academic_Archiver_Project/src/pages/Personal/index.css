@@ -1,0 +1,60 @@
+.m-personal {
+  display: flex;
+  background: #aea798;
+  min-height: 100vh;
+}
+
+.m-personal .user-info {
+  width: 300px;
+  border-right: 1px solid gainsboro;
+  padding: 100px 30px 0 30px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.m-personal .user-info .avatar {
+  height: 100px;
+  width: 100px;
+}
+
+.m-personal .user-info .user-name {
+  text-align: center;
+  margin-top: 30px;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.m-personal .user-info p {
+  width: 100%;
+}
+
+.m-personal .tabs {
+  flex-grow: 1;
+  background-color: #fff;
+}
+
+.m-personal .ant-tabs-content {
+  padding-left: 20px;
+  background-color: #fff;
+}
+
+.m-personal .ant-tabs-tabpane {
+  padding-right: 30px;
+}
+
+.m-personal .ant-tabs-tab {
+  background-color: #ada79a;
+}
+
+.user-info p {
+  display: flex;
+  justify-content: space-between;
+}
+
+.m-personal .logout {
+  position: absolute;
+  bottom: 50px;
+  cursor: pointer;
+}

@@ -1,0 +1,64 @@
+.paper-wrapper {
+  background: #aea798;
+  padding-bottom: 20px;
+}
+
+.paper {
+  width: 800px;
+  margin: 0 auto;
+  padding-bottom: 20px;
+  position: relative;
+}
+
+.paper .title {
+  font-size: 26px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.paper .intro {
+  margin-bottom: 50px;
+}
+
+.paper-wrapper .pdf {
+  /* height: 600px; */
+  width: 800px;
+  overflow: scroll;
+}
+
+.pdf .react-pdf__Page__canvas {
+  margin: 0 auto;
+}
+
+.paper-wrapper .actions {
+  position: absolute;
+  top: 200px;
+  left: -100px;
+  cursor: pointer;
+}
+
+.paper-wrapper.actions p {
+  border: 1px solid gray;
+  padding: 5px 10px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+
+.paper-wrapper .author {
+  width: 400px;
+  margin: 0 auto;
+  display: flex;
+}
+
+.paper-wrapper .author img {
+  height: 100px;
+  width: 100px;
+  margin-right: 15px;
+}
+
+.paper-wrapper .author .tag {
+  border: 1px solid gray;
+  padding: 3px 5px;
+  border-radius: 3px;
+  margin-right: 5px;
+}
